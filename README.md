@@ -2,7 +2,9 @@
 Soft G8BPQ for FreeBSD
 
 At the moment I don't have the source code
+
 You can find more info on the G8BPQ website
+
 https://www.cantab.net/users/john.wiseman/Downloads/Beta/
 
 This software for Packet Radio has
